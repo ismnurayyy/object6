@@ -1,0 +1,19 @@
+  .slider-container {
+    width: 30%;
+    height: 50%;
+    margin: 0 auto;
+   
+
+  
+   }
+ .slider {
+    overflow: hidden;
+    display: flex;
+   
+  }
+  
+  .slider img {
+    width: 400px;
+    height: 400px;
+    
+  } 
